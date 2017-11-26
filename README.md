@@ -1,0 +1,1 @@
+# AutoHotkey-Lib-WinGetPosEx
